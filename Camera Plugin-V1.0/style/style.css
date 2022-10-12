@@ -1,0 +1,18 @@
+#browseButton, #TakePictureButton, #BWButton, #ACButton, #resetButton, #invertButton,
+#ASButton, #saveButton, #hflip, #vflip, #rotateUnClockWise, #rotateClockWise, #CheckCameraButton,
+#cameraSettingButton, #rstZoom, #zoomIn, #zoomOut, #channelEditButton{
+    background-color:rgb(225, 232, 255);
+    color:rgb(0, 43, 100);
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 43, 100);
+}
+#browseButton:hover, #TakePictureButton:hover, #BWButton:hover,
+#ACButton:hover, #resetButton:hover, #invertButton:hover, #ASButton:hover , #saveButton:hover,
+#hflip:hover, #vflip:hover, #rotateClockWise:hover, #rotateUnClockWise:hover, #CheckCameraButton:hover,
+#cameraSettingButton:hover ,#rstZoom:hover, #zoomIn:hover, #zoomOut:hover, #channelEditButton:hover{
+  color: #fff;
+  cursor: pointer;
+  background: #ff003b;
+}

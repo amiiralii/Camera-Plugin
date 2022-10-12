@@ -1,0 +1,13 @@
+#apply_red_channel:hover, #apply_green_channel:hover, #apply_blue_channel:hover, #apply_rgb_channel:hover {
+  color: #fff;
+  cursor: pointer;
+  background: #ff003b;
+}
+#apply_red_channel, #apply_green_channel, #apply_blue_channel, #apply_rgb_channel{
+    background-color:rgb(225, 232, 255);
+    color:rgb(0, 43, 100);
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 43, 100);
+}

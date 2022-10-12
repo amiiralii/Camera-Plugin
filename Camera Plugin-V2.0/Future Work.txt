@@ -1,0 +1,7 @@
+These are Tools that can be added to the program.
+1. Adding contrast slider to change contrast manually
+2. Adding Sharpen slider to change sharpen manually
+3. Adding Crop option
+4. Adding Edge-Detection and Edge-Correction button in main page
+5. Publishing second version of the program in order to optimize it just for B/W photos
+6. Showing just one histogram when while using B/W photo

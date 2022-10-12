@@ -1,0 +1,13 @@
+#UpdateValueButton:hover, #ApplyButton:hover{
+    color:#BAE8BB;
+    background-color: #ff003b;
+}
+#ApplyButton, #UpdateValueButton{
+    background-color:#BAE8BB;
+    color:#954E32;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid #CB7462;
+    font-family: sans-serif;
+    font-size : 17px;
+}
